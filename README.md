@@ -1,4 +1,4 @@
-# arduino-study
+# study-arduino
 >[!IMPORTANT]
 >ctrl을 누르고 링크를 누르면 새탭에서 열립니다.
 >일반적으로는 이 창에 열립니다.
