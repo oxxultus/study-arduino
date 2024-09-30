@@ -11,6 +11,7 @@
 
 - 팅커캐드 링크: [NOT게이트](https://www.tinkercad.com/things/gGx9682GeXQ-1-1-not?sharecode=0t4Lx8e0nm0ciAFeK0Mgd7AM1751tTWReFJnp6SaoRU)
 
+#### NOT 게이트
 |입력 (A)|출력 (Q)|
 |---|---|
 |0|1|
