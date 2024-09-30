@@ -11,6 +11,11 @@
 
 - 팅커캐드 링크: [NOT게이트](https://www.tinkercad.com/things/gGx9682GeXQ-1-1-not?sharecode=0t4Lx8e0nm0ciAFeK0Mgd7AM1751tTWReFJnp6SaoRU)
 
+|입력 A|출력 Q|제목 셀3|제목 셀4|
+|---|---|---|---|
+|내용 1|내용 2|내용 3|내용 4|
+|내용 5|내용 6|내용 7|내용 8|
+|내용 9|내용 10|내용 11|내용 12|
 ---
 ### 2. 실습2 
 > [!NOTE]
@@ -18,7 +23,11 @@
 
 - 팅커캐드 링크: [AND 게이트](https://www.tinkercad.com/things/bfcF16zJQzM-2-2-and-?sharecode=Du638_YVCLkwGIdkhJysqB1JZx1gNdZlEii6mWgrmAk)   
 - 팅커캐드 링크: [NAND 게이트](https://www.tinkercad.com/things/ivBUraxTgrd-2-2-nand-?sharecode=eHfRsVIld4U9eUzQpQ1NOAW9lHACxSQBq0A6cb6vMJ0)
-
+|제목 셀1|제목 셀2|제목 셀3|제목 셀4|
+|---|---|---|---|
+|내용 1|내용 2|내용 3|내용 4|
+|내용 5|내용 6|내용 7|내용 8|
+|내용 9|내용 10|내용 11|내용 12|
 ---
 ### 3. 실습3 
 > [!NOTE]
@@ -27,6 +36,11 @@
 - 팅커캐드 링크: [NOR 게이트](https://www.tinkercad.com/things/3eT1znDlYNs-3-3-nor-?sharecode=eFR61rz_a3E31EdqQ6rEqyhsDtLyoYeXYAddIhCFXfU)   
 - 팅커캐드 링크: [OR 게이트](https://www.tinkercad.com/things/5xpm7igm7cJ-3-3-or-?sharecode=WhHsBUETNvuTtcxtJdNwIDB2LWLrKSXIjsJXHzdDeEI)
 
+|제목 셀1|제목 셀2|제목 셀3|제목 셀4|
+|---|---|---|---|
+|내용 1|내용 2|내용 3|내용 4|
+|내용 5|내용 6|내용 7|내용 8|
+|내용 9|내용 10|내용 11|내용 12|
 ---
 ### 4. 실습4 
 > [!NOTE]
@@ -34,6 +48,11 @@
 
 - 팅커캐드 링크: [XOR 게이트](https://www.tinkercad.com/things/6hHoBDRLq8v-4-4-xor-?sharecode=mQQIOziU85xiiz-64zyO9lnJ31wvqeWTsaiCG1y3frc)
 
+|제목 셀1|제목 셀2|제목 셀3|제목 셀4|
+|---|---|---|---|
+|내용 1|내용 2|내용 3|내용 4|
+|내용 5|내용 6|내용 7|내용 8|
+|내용 9|내용 10|내용 11|내용 12|
 ---
 ### 5. 실습5 
 > [!NOTE]
@@ -42,6 +61,11 @@
 - 팅커캐드 링크: [분배법칙 (AND-OR)](https://www.tinkercad.com/things/8UgdcvaorV9-5-5-and-or-?sharecode=vV-lMW9mlgw4BIhtECggTegYrk3e3tOHa-eAVmOQOPw)   
 - 팅커캐드 링크: [분배법칙 (OR-AND)](https://www.tinkercad.com/things/2Vq8YWiamfP-5-5-or-and-?sharecode=gGwHU1-zcpn_VFQRCpIHCJ0fEtFYJ0fGw3DC9ukxGbc)
 
+|제목 셀1|제목 셀2|제목 셀3|제목 셀4|
+|---|---|---|---|
+|내용 1|내용 2|내용 3|내용 4|
+|내용 5|내용 6|내용 7|내용 8|
+|내용 9|내용 10|내용 11|내용 12|
 ---
 ### 6. 실습9 
 > [!NOTE]
@@ -49,6 +73,11 @@
 
 - 팅커캐드 링크: [NOT, NAND, NOR 게이트를 이용한 AND게이트](https://www.tinkercad.com/things/1EZOJ8PVFLY-6-9-not-nand-nor-and?sharecode=D1PHRlwH9sfPd-uuqNklv5D3NZN7tJ00k12crJtm2uY)
 
+|제목 셀1|제목 셀2|제목 셀3|제목 셀4|
+|---|---|---|---|
+|내용 1|내용 2|내용 3|내용 4|
+|내용 5|내용 6|내용 7|내용 8|
+|내용 9|내용 10|내용 11|내용 12|
 ---
 ### 7. 실습10 
 >[!NOTE]
@@ -56,6 +85,11 @@
 
 - 팅커캐드 링크: [NAND 게이트를 이용한 XOR 회로](https://www.tinkercad.com/things/8JGrdyFq6Pe-7-10-nand-xor-?sharecode=cj5FkYHU0KZBgAKm4rZo12KBp_WNqLvl6yrbc8NBWa4)
 
+|제목 셀1|제목 셀2|제목 셀3|제목 셀4|
+|---|---|---|---|
+|내용 1|내용 2|내용 3|내용 4|
+|내용 5|내용 6|내용 7|내용 8|
+|내용 9|내용 10|내용 11|내용 12|
 ---
 ### 8. 실습11
 > [!NOTE]
@@ -63,6 +97,11 @@
 
 - 팅커캐드 링크: [링크없음]()
 
+|제목 셀1|제목 셀2|제목 셀3|제목 셀4|
+|---|---|---|---|
+|내용 1|내용 2|내용 3|내용 4|
+|내용 5|내용 6|내용 7|내용 8|
+|내용 9|내용 10|내용 11|내용 12|
 ---
 ### 9. 실습13
 > [!NOTE]
@@ -70,6 +109,11 @@
 
 - 팅커캐드 링크: [링크없음]()
 
+|제목 셀1|제목 셀2|제목 셀3|제목 셀4|
+|---|---|---|---|
+|내용 1|내용 2|내용 3|내용 4|
+|내용 5|내용 6|내용 7|내용 8|
+|내용 9|내용 10|내용 11|내용 12|
 ---
 ### 10. 실습14
 > [!NOTE]
@@ -77,6 +121,11 @@
 
 - 팅커캐드 링크: [링크없음]()
 
+|제목 셀1|제목 셀2|제목 셀3|제목 셀4|
+|---|---|---|---|
+|내용 1|내용 2|내용 3|내용 4|
+|내용 5|내용 6|내용 7|내용 8|
+|내용 9|내용 10|내용 11|내용 12|
 ---
 ### 11. 실습15
 > [!NOTE]
@@ -84,6 +133,11 @@
 
 - 팅커캐드 링크: [링크없음]()
 
+|제목 셀1|제목 셀2|제목 셀3|제목 셀4|
+|---|---|---|---|
+|내용 1|내용 2|내용 3|내용 4|
+|내용 5|내용 6|내용 7|내용 8|
+|내용 9|내용 10|내용 11|내용 12|
 ---
 ### 12. 실습16
 > [!NOTE]
@@ -91,6 +145,11 @@
 
 - 팅커캐드 링크: [링크없음]()
 
+|제목 셀1|제목 셀2|제목 셀3|제목 셀4|
+|---|---|---|---|
+|내용 1|내용 2|내용 3|내용 4|
+|내용 5|내용 6|내용 7|내용 8|
+|내용 9|내용 10|내용 11|내용 12|
 ---
 ### 13. 실습18
 > [!NOTE]
@@ -98,4 +157,9 @@
 
 - 팅커캐드 링크: [링크없음]()
 
+|제목 셀1|제목 셀2|제목 셀3|제목 셀4|
+|---|---|---|---|
+|내용 1|내용 2|내용 3|내용 4|
+|내용 5|내용 6|내용 7|내용 8|
+|내용 9|내용 10|내용 11|내용 12|
 ---
