@@ -11,7 +11,7 @@
 
 - 팅커캐드 링크: [NOT게이트](https://www.tinkercad.com/things/gGx9682GeXQ-1-1-not?sharecode=0t4Lx8e0nm0ciAFeK0Mgd7AM1751tTWReFJnp6SaoRU)
 
-#### NOT 게이트
+#### NOT 게이트 출력결과
 |입력 (A)|출력 (Q)|
 |---|---|
 |0|1|
@@ -24,14 +24,14 @@
 - 팅커캐드 링크: [AND 게이트](https://www.tinkercad.com/things/bfcF16zJQzM-2-2-and-?sharecode=Du638_YVCLkwGIdkhJysqB1JZx1gNdZlEii6mWgrmAk)   
 - 팅커캐드 링크: [NAND 게이트](https://www.tinkercad.com/things/ivBUraxTgrd-2-2-nand-?sharecode=eHfRsVIld4U9eUzQpQ1NOAW9lHACxSQBq0A6cb6vMJ0)
 
-#### AND 게이트
+#### AND 게이트 출력결과
 |입력 (A)|입력 (B)|출력 (Q)|
 |---|---|---|
 |0|0|0|
 |0|1|0|
 |1|0|0|
 |1|1|1|
-#### NAND 게이트
+#### NAND 게이트 출력결과
 |입력 (A)|입력 (B)|출력 (Q)|
 |---|---|---|
 |0|0|1|
@@ -46,14 +46,14 @@
 - 팅커캐드 링크: [NOR 게이트](https://www.tinkercad.com/things/3eT1znDlYNs-3-3-nor-?sharecode=eFR61rz_a3E31EdqQ6rEqyhsDtLyoYeXYAddIhCFXfU)   
 - 팅커캐드 링크: [OR 게이트](https://www.tinkercad.com/things/5xpm7igm7cJ-3-3-or-?sharecode=WhHsBUETNvuTtcxtJdNwIDB2LWLrKSXIjsJXHzdDeEI)
 
-#### OR 게이트
+#### OR 게이트 출력결과
 |입력 (A)|입력 (B)|출력 (Q)|
 |---|---|---|
 |0|0|0|
 |0|1|1|
 |1|0|1|
 |1|1|1|
-#### NOR 게이트
+#### NOR 게이트 출력결과
 |입력 (A)|입력 (B)|출력 (Q)|
 |---|---|---|
 |0|0|1|
@@ -67,7 +67,7 @@
 
 - 팅커캐드 링크: [XOR 게이트](https://www.tinkercad.com/things/6hHoBDRLq8v-4-4-xor-?sharecode=mQQIOziU85xiiz-64zyO9lnJ31wvqeWTsaiCG1y3frc)
 
-#### XOR 게이트
+#### XOR 게이트 출력결과
 |입력 (A)|입력 (B)|출력 (Q)|
 |---|---|---|
 |0|0|0|
@@ -82,7 +82,7 @@
 - 팅커캐드 링크: [분배법칙 (AND-OR)](https://www.tinkercad.com/things/8UgdcvaorV9-5-5-and-or-?sharecode=vV-lMW9mlgw4BIhtECggTegYrk3e3tOHa-eAVmOQOPw)   
 - 팅커캐드 링크: [분배법칙 (OR-AND)](https://www.tinkercad.com/things/2Vq8YWiamfP-5-5-or-and-?sharecode=gGwHU1-zcpn_VFQRCpIHCJ0fEtFYJ0fGw3DC9ukxGbc)
 
-#### OR-AND 게이트
+#### OR-AND 게이트 출력결과
 |입력 (A)|입력 (B)|입력 (C)|출력 (X)|출력 (Y)|
 |---|---|---|---|---|
 |0|0|0|0|0|
@@ -94,7 +94,7 @@
 |1|1|0|1|1|
 |1|1|1|1|1|
 
-#### AND-OR 게이트
+#### AND-OR 게이트 출력결과
 |입력 (A)|입력 (B)|입력 (C)|출력 (X)|출력 (Y)|
 |---|---|---|---|---|
 |0|0|0|0|0|
@@ -112,7 +112,7 @@
 
 - 팅커캐드 링크: [NOT, NAND, NOR 게이트를 이용한 AND게이트](https://www.tinkercad.com/things/1EZOJ8PVFLY-6-9-not-nand-nor-and?sharecode=D1PHRlwH9sfPd-uuqNklv5D3NZN7tJ00k12crJtm2uY)
 
-#### AND 게이트
+#### AND 게이트 출력결과
 |입력 (A)|입력 (B)|출력 (X)|출력 (Y)|
 |---|---|---|---|
 |0|0|0|0|
@@ -126,7 +126,7 @@
 
 - 팅커캐드 링크: [NAND 게이트를 이용한 XOR 회로](https://www.tinkercad.com/things/8JGrdyFq6Pe-7-10-nand-xor-?sharecode=cj5FkYHU0KZBgAKm4rZo12KBp_WNqLvl6yrbc8NBWa4)
 
-#### XOR 게이트
+#### XOR 게이트 출력결과
 |입력 (A)|입력 (B)|출력 (X)|
 |---|---|---|
 |0|0|0|
@@ -140,6 +140,7 @@
 
 - 팅커캐드 링크: [출력 X에 대한 진리표를 참고하여 카르노 맵](https://www.tinkercad.com/things/8LBJwiFq7y8-8-11-x-)
 
+#### 출력결과
 |입력 (A)|입력 (B)|입력 (C)|출력 (Y)|
 |---|---|---|---|
 |0|0|0|0|
@@ -155,7 +156,7 @@
 > [!NOTE]
 > 반가산기 회로를 구성하고 관찰한 결과와 시뮬레이션한 결과를 정리한다.
 
-- 팅커캐드 링크: [링크없음]()
+- 팅커캐드 링크: [미작성]()
 
 |제목 셀1|제목 셀2|제목 셀3|제목 셀4|
 |---|---|---|---|
@@ -167,7 +168,7 @@
 > [!NOTE]
 > 전가산기 회로를 구성하고 관찰한 결과와 시뮬레이션한 결과를 정리한다.
 
-- 팅커캐드 링크: [링크없음]()
+- 팅커캐드 링크: [미작성]()
 
 |제목 셀1|제목 셀2|제목 셀3|제목 셀4|
 |---|---|---|---|
@@ -179,7 +180,7 @@
 > [!NOTE]
 > 2비트 2진가산기 회로를 구성하고 관찰한 결과와 시뮬레이션한 결과를 정리한다.
 
-- 팅커캐드 링크: [링크없음]()
+- 팅커캐드 링크: [미작성]()
 
 |제목 셀1|제목 셀2|제목 셀3|제목 셀4|
 |---|---|---|---|
@@ -191,7 +192,7 @@
 > [!NOTE]
 > 2x4 디코더 회로를 구성하고 관찰한 결과와 시뮬레이션한 결과를 정리한다.
 
-- 팅커캐드 링크: [링크없음]()
+- 팅커캐드 링크: [미작성]()
 
 |제목 셀1|제목 셀2|제목 셀3|제목 셀4|
 |---|---|---|---|
@@ -203,7 +204,7 @@
 > [!NOTE]
 > 7-세그먼트 디코더 회로를 구성하고 관찰한 결과와 시뮬레이션한 결과를 정리한다.
 
-- 팅커캐드 링크: [링크없음]()
+- 팅커캐드 링크: [미작성]()
 
 |제목 셀1|제목 셀2|제목 셀3|제목 셀4|
 |---|---|---|---|
